@@ -1,1 +1,2 @@
 # odin-recipes
+The current project, project one, is to create a simple offline website. This website will only have a main page and a number of links to other pages we will create, each of these pages will have a recipe. Hence, this is a recipe website.
